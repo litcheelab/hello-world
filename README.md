@@ -8,6 +8,3 @@ thanks,
 
 
 Litchee Lab team
-
-
-Notes: some typos found, download unavailable till recorrecttion.
