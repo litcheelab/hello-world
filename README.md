@@ -6,4 +6,8 @@ This is a badges system we developed for kids aged from 8-14 in China to help th
 
 thanks,
 
+
 Litchee Lab team
+
+
+Notes: some typos found, download unavailable till recorrecttion.
